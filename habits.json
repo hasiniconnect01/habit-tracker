@@ -1,0 +1,21 @@
+[
+    {
+        "name": "drink 5 liters water daily",
+        "description": "keeping hydrated",
+        "completed_dates": []
+    },
+    {
+        "name": "drink 5 liters water daily",
+        "description": "to be hydrated",
+        "completed_dates": [
+            "2026-09-15"
+        ]
+    },
+    {
+        "name": "drink 5 liters water daily",
+        "description": "to be hydrated",
+        "completed_dates": [
+            "2026-09-15"
+        ]
+    }
+]
