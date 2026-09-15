@@ -21,6 +21,6 @@ complete daily check-ins, track streaks, and store progress locally.
 ## Project Structure
 
 habit-tracker/
-├── habit_tracker.py
+├── habittracker.py
 ├── habits.json
 └── README.md
