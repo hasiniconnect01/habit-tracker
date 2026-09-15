@@ -24,3 +24,8 @@ habit-tracker/
 ├── habittracker.py
 ├── habits.json
 └── README.md
+
+demo:
+https://github.com/user-attachments/assets/ac23a6da-a376-44ec-8a95-58f14550a7ee
+
+
